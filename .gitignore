@@ -1,0 +1,10 @@
+__pycache__/
+
+/venv
+.*
+
+*.old
+*.ignore
+*.autosave
+!.gitignore
+db.sqlite3
